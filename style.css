@@ -1,0 +1,10 @@
+h1 {
+    color: lightblue;
+    text-align: center;
+    transition: all 1s;
+
+}
+h1:hover {
+    color: blue;
+    cursor: pointer;
+}
